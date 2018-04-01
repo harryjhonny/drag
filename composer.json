@@ -1,0 +1,18 @@
+{
+    "name": "harryjhonny/draggable",
+    "description": "A dummy",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hari",
+            "email": "harry_jhonny@yahoo.co.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Harryjhonny\\Draggable\\": "src/"
+        }
+    },
+    "require": {}
+}
